@@ -1,8 +1,8 @@
 [gd_scene load_steps=60 format=3 uid="uid://dia37ga3v00ss"]
 
 [ext_resource type="Script" uid="uid://c06x1tdi7avmw" path="res://scenes/main.gd" id="1_o6xl0"]
-[ext_resource type="VideoStream" uid="uid://d1jt2puunbl5d" path="res://assets/backgrounds/background2.ogv" id="2_choun"]
-[ext_resource type="Texture2D" uid="uid://chg7sa33ywu3v" path="res://assets/characters/walk.png" id="3_choun"]
+[ext_resource type="VideoStream" uid="uid://d1jt2puunbl5d" path="res://assets/background/background2.ogv" id="2_choun"]
+[ext_resource type="Texture2D" uid="uid://chg7sa33ywu3v" path="res://assets/sprites/walk.png" id="3_choun"]
 [ext_resource type="Texture2D" uid="uid://chxt6n4t58b2e" path="res://assets/icons/MediumArrow-Right@0.5x.png" id="3_jyhfs"]
 [ext_resource type="Texture2D" uid="uid://dwmj560emqnft" path="res://assets/icons/MediumArrow-Left@0.5x.png" id="4_tbgi4"]
 [ext_resource type="Texture2D" uid="uid://cln6x7k4w4v5y" path="res://assets/icons/right.png" id="5_choun"]
