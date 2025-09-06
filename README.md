@@ -5,4 +5,4 @@ Cette scène réactive représente un menu d'édition de personnage. L'objectif 
 
 ## Touches
 - Espace : Permet d'activer/désactiver la musique.
-- Souris (click droit) : Cliquer sur les flèches pour faire tourner le personnage, cliquer sur l'icone musique pour activer/désactiver la musique.
+- Souris (click gauche) : Cliquer sur les flèches pour faire tourner le personnage, cliquer sur l'icone musique pour activer/désactiver la musique.
